@@ -1,4 +1,4 @@
-# SEED-Talks-Repo-Template
+# HTS-Git-Gud-Part-2
 
 This repo contains the materials for the SEED "HOW TO" talks series, [NAME OF TALK TOPIC].  
 You can find the slides used and any relevant material in this repo itself.  
