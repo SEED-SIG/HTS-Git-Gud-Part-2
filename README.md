@@ -7,6 +7,7 @@ Fore more information, links and references, refer to the sections below.
 ## Links
 
 1. [Google Slides](https://docs.google.com/presentation/d/1D5XwMW4xg5I7n6AbYHxPEBi6rBW4E6z6TmGp86nYqVU/edit?usp=sharing)
+2. [Talk Recording](https://www.youtube.com/watch?v=l8C5rLtSHJA)
 
 ## References
 
